@@ -1,0 +1,17 @@
+{
+  "client_id": "https://kevinregenfelder.github.io/contextforge-client/client.json",
+  "client_name": "ContextForge Gateway",
+  "client_uri": "https://github.com/IBM/mcp-context-forge",
+  "redirect_uris": [
+    "https://kevins-mac-mini.tailf49807.ts.net:8443/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web"
+}
